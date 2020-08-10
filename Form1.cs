@@ -33,5 +33,10 @@ namespace Babies_first_windows_form
         {
 
         }
+
+        private void lblMijnLabel_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

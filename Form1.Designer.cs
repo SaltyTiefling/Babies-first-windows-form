@@ -40,6 +40,7 @@
             this.lblMijnLabel.Size = new System.Drawing.Size(50, 13);
             this.lblMijnLabel.TabIndex = 0;
             this.lblMijnLabel.Text = "mijn label";
+            this.lblMijnLabel.Click += new System.EventHandler(this.lblMijnLabel_Click);
             // 
             // btnButton1
             // 
